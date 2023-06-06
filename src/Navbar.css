@@ -1,0 +1,53 @@
+@import url(//db.onlinewebfonts.com/c/2d1d3d5c6e16809e9aaeb413f0687ebc?family=ITCAvantGardeW04-Demi);
+
+@font-face {
+    font-family: "ITCAvantGardeW04-Demi"; 
+    src: url("//db.onlinewebfonts.com/t/2d1d3d5c6e16809e9aaeb413f0687ebc.eot"); 
+    src: url("//db.onlinewebfonts.com/t/2d1d3d5c6e16809e9aaeb413f0687ebc.eot?#iefix") format("embedded-opentype"), 
+         url("//db.onlinewebfonts.com/t/2d1d3d5c6e16809e9aaeb413f0687ebc.woff2") format("woff2"), 
+         url("//db.onlinewebfonts.com/t/2d1d3d5c6e16809e9aaeb413f0687ebc.woff") format("woff"), 
+         url("//db.onlinewebfonts.com/t/2d1d3d5c6e16809e9aaeb413f0687ebc.ttf") format("truetype"), 
+         url("//db.onlinewebfonts.com/t/2d1d3d5c6e16809e9aaeb413f0687ebc.svg#ITCAvantGardeW04-Demi") format("svg");
+}
+
+.navbar{
+    height: 70px;
+    width: 100%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    padding: 16px 0;
+    display: flex;
+    align-items: center;
+}
+
+.main-container{
+    display: flex;
+    height: 72.5px;
+    width: 100%;
+    align-items: center;
+}
+
+.logo{
+    margin-right:430px;
+    margin-left: 140px;
+    font-size:50px;
+}
+
+.nav-buttons{
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-family: "ITCAvantGardeW04-Demi";
+    margin-left: 1.25rem;
+    margin-right: 10px;
+    color: #3d7dca;
+    cursor: pointer;
+    border: none;
+    background: white;
+}
+
+.blue{
+    color: #3d7dca;
+}
+
+.yellow{
+    color: #ffda27;
+}

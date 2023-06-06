@@ -1,0 +1,45 @@
+.main-body-container{
+    height:630px;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    column-gap: 70px;
+    margin-top: 50px;
+}
+
+.word-container{
+    height: 300px;
+    width: 450px;
+}
+
+.big-words-body{   
+    font-weight: 1000;
+    font-size: 50px;
+    font-family: 'ITCAvantGardeW04-Demi';
+    color: #011e41;
+    margin: 0px;
+}
+
+.bigger-words-body{   
+    font-weight: 1000;
+    font-size: 80px;
+    font-family: 'ITCAvantGardeW04-Demi';
+    margin: 0px;
+}
+
+.small-words-body{
+    font-size:30px;
+    font-family: 'ITCAvantGardeW04-Demi';
+    color: #011e41;
+    margin: 0px;
+}
+
+.yellow{
+    color: #ffda27;
+}
+
+.stick-man{
+    justify-self: right;
+}

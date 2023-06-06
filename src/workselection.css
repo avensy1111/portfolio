@@ -1,0 +1,22 @@
+.work-selection-container{
+    background: yellow;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.work-container{
+    background: green;
+    display: flex;
+    justify-content: center;
+    column-gap: 500px;
+    align-content: center;
+}
+
+.pointing-man{
+    height: 250px;
+}
+
+.work-area-container{
+    background: blue;
+}

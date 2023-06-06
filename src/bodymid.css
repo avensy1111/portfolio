@@ -1,0 +1,45 @@
+.bodymid-container{
+    height:100vh;
+    width:100%;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+.bodymid-word-container{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'ITCAvantGardeW04-Demi';
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.image-bodymid-container{
+    display: flex;
+    width: 100%;
+    margin-top: 70px;
+    margin-bottom: 0px;
+    column-gap: 700px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grad-pic{
+    margin-top: 0px;
+    height: 400px;
+    position: absolute;
+    margin-bottom: 55px;
+}
+
+.idea-man{
+    height: 400px;
+}
+
+.thinking-man{
+    margin-top: 200px;
+}
